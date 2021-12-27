@@ -1,6 +1,6 @@
 <b>MP3D - Mostly Printed 3D Printer</b>
 
-<u>Buying-Parts:</u>
+<b>Buying-Parts:</b>
 5x Nema14 (max length 36mm for Z)
 4x 200mm linear rod
 
